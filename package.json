@@ -1,0 +1,12 @@
+{
+  "name": "typescript-study",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/leejiwon6315/Typescript-Study.git",
+  "author": "leejiwon6315 <leejiwon6315@naver.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "prestart": "tsc"
+  }
+}
